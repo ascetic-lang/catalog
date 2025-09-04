@@ -4,3 +4,6 @@
 [submodule "tooling/formatter/aesthetic"]
 	path = tooling/formatter/aesthetic
 	url = https://github.com/GregoryLi360/ascetic-aesthetic.git
+[submodule "tooling/lsp/vscode-scala"]
+	path = tooling/lsp/vscode-scala
+	url = https://github.com/GregoryLi360/ascetic-lsp.git

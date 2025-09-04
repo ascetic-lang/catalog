@@ -1,3 +1,6 @@
 [submodule "tooling/formatter/ast-validator"]
 	path = tooling/formatter/ast-validator
 	url = https://github.com/GregoryLi360/ascetic-ast-validator.git
+[submodule "tooling/formatter/aesthetic"]
+	path = tooling/formatter/aesthetic
+	url = https://github.com/GregoryLi360/ascetic-aesthetic.git
